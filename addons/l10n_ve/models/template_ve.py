@@ -29,6 +29,8 @@ class AccountChartTemplate(models.AbstractModel):
                 'income_currency_exchange_account_id': 'account_account_4301010',
                 'expense_currency_exchange_account_id': 'account_account_6501040',
                 'account_journal_suspense_account_id': 'account_account_1012010',
+                'account_journal_payment_debit_account_id': 'account_account_1012020',
+                'account_journal_payment_credit_account_id': 'account_account_1012030',
                 'account_journal_early_pay_discount_gain_account_id': 'account_account_4301040',
                 'account_journal_early_pay_discount_loss_account_id': 'account_account_6501060',
                 'default_cash_difference_income_account_id': 'account_account_4301030',
